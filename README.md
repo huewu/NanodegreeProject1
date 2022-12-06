@@ -9,3 +9,6 @@ Set it as a value of "api_key" string resource in the string.xml file.
     <string name="api_key">YOUR_API_KEY</string>
 
 Chage README file to test LINE notifiy feature 
+
+
+This works well. 
